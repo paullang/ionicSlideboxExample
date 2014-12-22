@@ -1,0 +1,8 @@
+/* Empty. Add your own CSS if you like */
+.slideImagePortrait {
+  max-width:100%;
+}
+
+.slideImageLandscape {
+  max-height:100%;
+}
